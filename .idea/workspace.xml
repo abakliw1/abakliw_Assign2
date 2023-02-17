@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8889c53a-cccf-46b9-bb9e-6b6f3d8bec74" name="Changes" comment="Added the - operation with passed test case" />
+    <list default="true" id="8889c53a-cccf-46b9-bb9e-6b6f3d8bec74" name="Changes" comment="Added the * operation with passed test case">
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MyCipherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyCipherTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676598524706</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added the * operation with failed test case">
+      <created>1676598656412</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676598656412</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added the * operation with passed test case">
+      <created>1676598708667</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676598708667</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +155,8 @@
     <MESSAGE value="Added the + operation with passed test case" />
     <MESSAGE value="Added the - operation with failed test case" />
     <MESSAGE value="Added the - operation with passed test case" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the - operation with passed test case" />
+    <MESSAGE value="Added the * operation with failed test case" />
+    <MESSAGE value="Added the * operation with passed test case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the * operation with passed test case" />
   </component>
 </project>
