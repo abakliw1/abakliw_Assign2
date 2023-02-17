@@ -1,3 +1,4 @@
+import java.io.*;
 public class MyCipher {
     public int compute(String str){
         String[] val= str.split(" ");
@@ -10,5 +11,11 @@ public class MyCipher {
         return 0;
     }
 
+    public static void main(String[] args) throws IOException {
+        MyCipher c=new MyCipher();
+        BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+        String st= br.readLine();
+        System.out.println(c.compute(st));
+    }
 
 }
