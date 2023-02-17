@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8889c53a-cccf-46b9-bb9e-6b6f3d8bec74" name="Changes" comment="Added the + operation with failed test case">
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyCipher.java" afterDir="false" />
-    </list>
+    <list default="true" id="8889c53a-cccf-46b9-bb9e-6b6f3d8bec74" name="Changes" comment="Added the - operation with passed test case" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +84,42 @@
       <option name="project" value="LOCAL" />
       <updated>1676598027778</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added the + operation with passed test case">
+      <created>1676598201572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676598201572</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added the + operation with passed test case">
+      <created>1676598281395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676598281395</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added the - operation with failed test case">
+      <created>1676598425966</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676598425966</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added the - operation with failed test case">
+      <created>1676598478832</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676598478832</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added the - operation with passed test case">
+      <created>1676598524706</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676598524706</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +135,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added the + operation with failed test case" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the + operation with failed test case" />
+    <MESSAGE value="Added the + operation with passed test case" />
+    <MESSAGE value="Added the - operation with failed test case" />
+    <MESSAGE value="Added the - operation with passed test case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the - operation with passed test case" />
   </component>
 </project>

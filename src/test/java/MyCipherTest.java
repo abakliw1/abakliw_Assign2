@@ -9,5 +9,6 @@ public class MyCipherTest {
         MyCipher c=new MyCipher();
         assertEquals(6,c.compute("+ 4 2"));
         assertEquals(-1,c.compute("- 3 4"));
+        assertEquals(12,c.compute("* 4 3"));
     }
 }
