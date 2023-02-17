@@ -1,0 +1,5 @@
+MyCipher
+
+int compute(string str)
+
+The method would take a string and would return the operation of the two numbers.
