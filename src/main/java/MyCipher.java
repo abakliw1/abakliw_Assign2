@@ -5,7 +5,7 @@ public class MyCipher {
             case "+": return Integer.valueOf(val[1])+Integer.valueOf(val[2]);
             case "-": return Integer.valueOf(val[1])-Integer.valueOf(val[2]);
             case "*": return Integer.valueOf(val[1])*Integer.valueOf(val[2]);
-            case "/": return Integer.valueOf(val[2])/Integer.valueOf(val[1]);
+            case "/": return Integer.valueOf(val[1])/Integer.valueOf(val[2]);
         }
         return 0;
     }
